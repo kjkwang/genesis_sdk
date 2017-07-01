@@ -1,0 +1,2 @@
+# genesis_sdk
+AndroidApp
